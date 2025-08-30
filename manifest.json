@@ -1,0 +1,21 @@
+{
+  "manifest_version": 3,
+  "name": "WHATWG Spec Table of Contents",
+  "version": "1.0",
+  "description": "Displays a floating table of contents for WHATWG specification pages",
+  "content_scripts": [
+    {
+      "matches": ["*://html.spec.whatwg.org/*"],
+      "js": ["content.js"],
+      "css": ["toc.css"],
+      "run_at": "document_end"
+    }
+  ],
+  "permissions": ["activeTab"],
+  "icons": {
+    "16": "icon16.png",
+    "32": "icon32.png", 
+    "48": "icon48.png",
+    "128": "icon128.png"
+  }
+}

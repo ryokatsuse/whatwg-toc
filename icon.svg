@@ -1,0 +1,28 @@
+<svg width="128" height="128" viewBox="0 0 128 128" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background circle -->
+  <circle cx="64" cy="64" r="60" fill="#1976d2" stroke="#1565c0" stroke-width="8"/>
+  
+  <!-- Book icon -->
+  <path d="M32 24 C32 20, 36 16, 40 16 L88 16 C92 16, 96 20, 96 24 L96 104 C96 108, 92 112, 88 112 L40 112 C36 112, 32 108, 32 104 Z" fill="white"/>
+  
+  <!-- Book spine -->
+  <rect x="32" y="16" width="8" height="96" fill="#e3f2fd" rx="2"/>
+  
+  <!-- Table of contents lines -->
+  <line x1="48" y1="32" x2="80" y2="32" stroke="#1976d2" stroke-width="3" stroke-linecap="round"/>
+  <line x1="48" y1="44" x2="76" y2="44" stroke="#1976d2" stroke-width="2" stroke-linecap="round"/>
+  <line x1="52" y1="54" x2="72" y2="54" stroke="#1976d2" stroke-width="2" stroke-linecap="round"/>
+  <line x1="52" y1="64" x2="74" y2="64" stroke="#1976d2" stroke-width="2" stroke-linecap="round"/>
+  <line x1="48" y1="76" x2="78" y2="76" stroke="#1976d2" stroke-width="2" stroke-linecap="round"/>
+  <line x1="52" y1="86" x2="70" y2="86" stroke="#1976d2" stroke-width="2" stroke-linecap="round"/>
+  <line x1="52" y1="96" x2="72" y2="96" stroke="#1976d2" stroke-width="2" stroke-linecap="round"/>
+  
+  <!-- Page numbers -->
+  <circle cx="82" cy="32" r="2" fill="#1976d2"/>
+  <circle cx="78" cy="44" r="1.5" fill="#1976d2"/>
+  <circle cx="74" cy="54" r="1.5" fill="#1976d2"/>
+  <circle cx="76" cy="64" r="1.5" fill="#1976d2"/>
+  <circle cx="80" cy="76" r="1.5" fill="#1976d2"/>
+  <circle cx="72" cy="86" r="1.5" fill="#1976d2"/>
+  <circle cx="74" cy="96" r="1.5" fill="#1976d2"/>
+</svg>
