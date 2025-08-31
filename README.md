@@ -2,6 +2,10 @@
 
 WHATWG仕様書のページに浮動する目次を表示するChrome拡張機能です。
 
+## デモ
+
+https://github.com/user-attachments/assets/screen.mov
+
 ## 機能
 
 - **自動目次生成**: https://html.spec.whatwg.org/ のページで自動的に目次を生成・表示
